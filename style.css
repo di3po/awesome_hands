@@ -38,6 +38,7 @@ body
     margin-right: 33%;
     transform: rotate(16deg);
     margin-top: 19px;
+    background: green;
 }
 
 #finger_2
