@@ -29,7 +29,12 @@ body
     border-bottom-right-radius: 30%;
 }
 
-#finger_1
+#green_box
+{
+    position: absolute;
+}
+
+#green_box_header
 {
     width: 123px;
     height: 161px;
